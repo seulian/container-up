@@ -1,3 +1,3 @@
-FROM bitnami/apache:latest
+FROM bitnamilegacy/apache:latest
 COPY ./public_html/ /app
 
